@@ -9,7 +9,7 @@
 		var home = {
 			name: '',
 			url: '/',
-			templateUrl: './login.html'
+			templateUrl: './index.html'
 		},
 		addUser = {
 			name: 'adduser',
